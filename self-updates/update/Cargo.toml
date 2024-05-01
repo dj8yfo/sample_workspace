@@ -1,8 +1,9 @@
 [package]
 name = "self-update"
-version = "1.0.0"
+version = "1.7.7"
 authors = ["Near Inc <hello@near.org>"]
 edition = "2021"
+repository = "https://github.com/dj8yfo/sample_workspace"
 
 [lib]
 crate-type = ["cdylib"]
