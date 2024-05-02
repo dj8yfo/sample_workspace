@@ -17,3 +17,6 @@ members = [
     "self-updates/base",
     "self-updates/update",
 ]
+
+[workspace.package]
+repository = "https://github.com/dj8yfo/sample_workspace"
