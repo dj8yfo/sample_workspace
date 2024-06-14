@@ -1,4 +1,4 @@
-contract := "sample-subpath-in-repo-5.testnet"
+contract := "sample-subpath-in-repo-6.testnet"
 
 # cleanup in symlinked dir
 create-dev-acc:
